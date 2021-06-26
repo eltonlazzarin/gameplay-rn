@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<img alt="Logo" src="https://github.com/eltonlazzarin/gameplay-rn/blob/main/assets/logo.png" width="63px" height="63px" />
+	<img alt="Logo" src="https://github.com/eltonlazzarin/gameplay-rn/blob/main/assets/logo.png" width="83px" height="83px" />
 </h1>
 
 <h3 align="center">
