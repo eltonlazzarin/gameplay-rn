@@ -69,7 +69,7 @@ $ git clone https://github.com/eltonlazzarin/gameplay-rn.git
 $ cd gameplay-rn
 ```
 
-**Get all .env variables**
+### Get all .env variables
 It is worth noting that you must create your App on the [Discord server](https://discord.com/developers/docs/topics/oauth2) to get the authentication credentials. Then create and define your App settings in the .env file (remove the example from the .env.example file).
 
 ```cl
