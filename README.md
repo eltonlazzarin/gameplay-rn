@@ -1,9 +1,9 @@
 <h1 align="center"> 
-	<img alt="Logo" src="https://github.com/eltonlazzarin/gameplay-rn/blob/main/assets/logo.png" width="43px" height="43px" />
+	<img alt="Logo" src="https://github.com/eltonlazzarin/gameplay-rn/blob/main/assets/logo.png" width="63px" height="63px" />
 </h1>
 
 <h3 align="center">
- Project developed during Rocketseat's Next Level Week #06
+ Mobile application for leisure time with friends
 </h3>
 
 <p align="center">
