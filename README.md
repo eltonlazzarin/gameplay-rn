@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Logo" src="https://github.com/eltonlazzarin/gameplay-rn/blob/main/assets/logo.png" width="83px" height="83px" />
 </h1>
 
